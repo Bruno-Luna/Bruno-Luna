@@ -1,7 +1,7 @@
 ### Olá, tudo bem!?
 
 Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhecimentos e aprendizagem. 
-É fascinante a imensidão de desafios que a tecnologia te proporciona.  🚀
+É fascinante a imensidão de desafios que a tecnologia pode nos proporcionar.  🚀
 
 - 💻 Front-End Jr.
 
