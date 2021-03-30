@@ -10,5 +10,6 @@ Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhec
 - 📡 Neste momento busco colaborar com projetos Front-end.
 - 💬 Sobre mim: Gosto de séries, filmes, futebol e anime.
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dvdnotfound)](https://github.com/dvdnotfound)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-luna-11590720a/)](https://www.linkedin.com/in/david-santos-a482041b2/)
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bruno-Luna)](https://github.com/Bruno-Luna)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-luna-11590720a/)](https://www.linkedin.com/in/bruno-luna-11590720a/)
