@@ -1,8 +1,14 @@
-► Olá, sou Bruno estudante Frontend. Ávido por novos conhecimentos e pelas tecnologias
+### Olá, tudo bem?
 
-► Estou aprendendo atualmente HTML, CSS e JavaScript
+Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhecimentos e aprendizagem. 
+É fascinante a imensidão de desafios que a tecnologia te proporciona.  🚀
 
-<!---
-Bruno-Luna/Bruno-Luna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Front-End Jr.
+
+- 🔍 Aberto a novas oportunidades.
+- 📰  |HTML | CSS |  GIT | JAVASCRIPT | 
+- 📡 Neste momento busco colaborar com projetos Front-end.
+- 💬 Sobre mim: Gosto de séries, filmes, futebol e anime.
+
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dvdnotfound)](https://github.com/dvdnotfound)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-luna-11590720a/)](https://www.linkedin.com/in/david-santos-a482041b2/)
