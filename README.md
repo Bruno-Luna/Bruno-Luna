@@ -1,7 +1,7 @@
 ### Oláá!!
 
 Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhecimentos e aprendizagem. 
-É fascinante a imensidão de desafios que a tecnologia pode nos proporcionar.  🚀
+O que me facina é a imensidão de desafios que a tecnologia pode nos proporcionar.  🚀
 
 
 
@@ -11,7 +11,6 @@ Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhec
 
 - 💬 *Sobre mim: Gosto de séries, filmes, futebol e anime.* 
 
-![GitHub watchers](https://img.shields.io/github/watchers/Bruno-Luna/Bruno-Luna?color=informational)
 
 ### Contato:
 
