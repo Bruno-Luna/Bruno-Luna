@@ -1,7 +1,7 @@
 ### Oláá!!
 
 Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhecimentos e aprendizagem. 
-O que me facina é a imensidão de desafios que a tecnologia pode nos proporcionar.  🚀
+O que me fascina é a imensidão de desafios que a tecnologia pode nos proporcionar.  🚀
 
 
 
