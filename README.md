@@ -1,11 +1,11 @@
 ### Oláá!!
 
-Meu nome é Bruno, sou Desenvolvedor Web, Front-End. Sou ávido por novos conhecimentos e aprendizagem. 
-O que me fascina é a imensidão de desafios que a tecnologia pode nos proporcionar.  🚀
+Meu nome é Bruno, sou estudante em Desenvolvimento web, Front-end. Sou ávido por novos conhecimentos e aprendizagem. 
+O que me fascina na área do desenvolvimento, é a imensidão de desafios que pode nos proporcionar.  🚀
 
 
 
-- 💻 *Desenvolvedor Front-end, Jr*.
+- 💻 *Estudante em Desenvolvimento web, Front-end.
 
 - 🔍 *Aberto a novas oportunidades.* 
 
