@@ -1,27 +1,33 @@
-### Oláá!!
+## Oláá, sou Bruno Luna!! 👨🏾
 
-Meu nome é Bruno, sou estudante em Desenvolvimento web, Front-end. Sou ávido por novos conhecimentos e aprendizagem. 
-O que me fascina na área do desenvolvimento, é a imensidão de desafios que pode nos proporcionar.  🚀
+<img src= "https://github.com/iuricode/iuricode/blob/master/pc.svg" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador">
+<p align="left">
+Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Estudante de Desenvolvimento web, Full Stack Java pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
+<br>
 
-
-
-- 💻 *Estudante em Desenvolvimento web, Front-end.* 
-
-- 🔍 *Aberto a novas oportunidades.* 
-
-- 💬 *Sobre mim: Gosto de séries, filmes, futebol e anime.* 
-
-
-### Contato:
-
-[![img](https://camo.githubusercontent.com/8fd41d51235a3804775fb35e34eabf41c112f58d42b269d956b2913a8cc4bec7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d6174657573617261756a6f626172726f732f)](https://www.linkedin.com/in/bruno-luna-11590720a/)
+ </p>
  
+### Tecnologias: 
+
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
 
 
-### Skills:
-
-[](https://camo.githubusercontent.com/ec8da02fe03c3b389100c8b9648eae51b7e5e04b5d29c7bb6ab55f52caece537/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3535353535353f7374796c653d666c6174266c6f676f3d63253242253242) [![HTML5](https://camo.githubusercontent.com/3fd58db04ae96181db91ff9cee08bca4ca6db9db8dd38f2063f26781eaeb67e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303030303f7374796c653d666c6174266c6f676f3d68746d6c35)](https://camo.githubusercontent.com/3fd58db04ae96181db91ff9cee08bca4ca6db9db8dd38f2063f26781eaeb67e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303030303f7374796c653d666c6174266c6f676f3d68746d6c35) [![CSS](https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)](https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236) [![JavaScript](https://camo.githubusercontent.com/ddbeaac0298ab7864fff9ed11ff78cc48623e4ff75b6ba770ceeb80fb2aa9685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030303f7374796c653d666c6174266c6f676f3d6a617661736372697074)](https://camo.githubusercontent.com/ddbeaac0298ab7864fff9ed11ff78cc48623e4ff75b6ba770ceeb80fb2aa9685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030303f7374796c653d666c6174266c6f676f3d6a617661736372697074) [![Git](https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974)](https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974) [](https://camo.githubusercontent.com/085c9a0cc789e473b0a270235b7b45491c46a337da4e1c4807ac6613f31077c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3535353535353f7374796c653d666c6174266c6f676f3d707974686f6e) [](https://camo.githubusercontent.com/b7e7985bdd53bd92cddc6e8f1f21a9bc640e55e29263e5507ae9e2497075fd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303030303f7374796c653d666c6174266c6f676f3d706f737467726573716c) [](https://camo.githubusercontent.com/1f099d18202a579b978aebd44fd02b8bb83f42cc7e5a81022efd89effda19c85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3232323232323f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642) [](https://camo.githubusercontent.com/bada150b143c0f48fe869b6d0af87285da5aa8b2bc6715816ad69f938174122a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3535353535353f7374796c653d666c6174266c6f676f3d7675652e6a73) [](https://camo.githubusercontent.com/f9e9c7ab17777fd67743d12625bbcd7f54b5c1a0ff5a413aa53f2a6594f7d8b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3535353535353f7374796c653d666c6174266c6f676f3d6e6f64652e6a73) [](https://camo.githubusercontent.com/b2240545a414b622dfb89ad3751dd83ef7bad89092496374c3c83699cb409b12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573734a532d3535353535353f7374796c653d666c6174266c6f676f3d65787072657373)
 
 
-[![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-luna&show_icons=true&theme=radical)](https://github.com/Bruno-Luna/github-readme-stats)<br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-luna&layout=compact&show_icons=true&theme=radical)](https://github.com/Bruno-Luna/github-readme-stats)
+ <div>
+ <br><br>
+  <a href="https://github.com/Bruno-Luna">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Luna&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Luna&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+<br>
+<p align="left">
+ 
+  <a href="https://www.linkedin.com/in/bruno-luna-11590720a/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/bruno-luna-11590720a/"/>
+  </a>
+</p>  
