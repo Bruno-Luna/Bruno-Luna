@@ -2,7 +2,7 @@
 
 <img src= "https://github.com/iuricode/iuricode/blob/master/pc.svg" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador">
 <p align="left">
-Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Estudante de Desenvolvimento web, Full Stack Java pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
+Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Desenvolvedor web, Full Stack Java pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
 <br>
 
  </p>
@@ -12,7 +12,7 @@ Graduado em Pedagogia, atualmente estou em transição de carreira para o univer
 | <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Docker-gold?style=for-the-badge&logo=docker&logoColor=black"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> |
+|  <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">| <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit"> | 
 
 
 
