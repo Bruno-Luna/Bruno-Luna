@@ -2,7 +2,7 @@
 
 <img src= "https://github.com/iuricode/iuricode/blob/master/pc.svg" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador">
 <p align="left">
-Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Desenvolvedor web, Full Stack Java pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
+Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Formado em Desenvolvimento Web  Java Full Stack  pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
 <br>
 
  </p>
