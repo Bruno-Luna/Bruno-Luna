@@ -1,6 +1,6 @@
 ## Oláá, sou Bruno Luna!! 👨🏾
 
-<img src= "https://github.com/iuricode/iuricode/blob/master/pc.svg" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador">
+<!-- <img src= "https://image.freepik.com/vetores-gratis/retrato-de-programador-trabalhando-com-pc_23-2148216700.jpg" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador"> -->
 <p align="left">
 Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Formado em Desenvolvimento Web  Java Full Stack  pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
 <br>
@@ -25,9 +25,14 @@ Graduado em Pedagogia, atualmente estou em transição de carreira para o univer
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Luna&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <br>
+ <img src="https://komarev.com/ghpvc/?username=Bruno-Luna&color=blue" alt="Visualizações: Pefil Bruno-Luna" /> 
+<br>
+<br>
+
 <p align="left">
  
-  <a href="https://www.linkedin.com/in/bruno-luna-11590720a/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lunabr/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/bruno-luna-11590720a/"/>
-  </a>
-</p>  
+ </a>
+</p>
+
