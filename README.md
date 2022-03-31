@@ -1,7 +1,7 @@
 ## Olá! 
 #### Bem-vindo(a) ao meu repositório.
 
-<!-- <img src= "https://image.freepik.com/vetores-gratis/retrato-de-programador-trabalhando-com-pc_23-2148216700.jpg" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador"> -->
+ <img src= "https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador"> 
 <p align="left">
  
  <details> 
