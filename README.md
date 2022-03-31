@@ -5,7 +5,10 @@
 <p align="left">
  
 #### Sobre mim: 
-Graduado em Pedagogia, atualmente estou em transição de carreira para o universo da tecnologia. Formado em Desenvolvimento Web  Java Full Stack  pela <a href = "https://brazil.generation.org"> Generation Brasil</a>, ávido por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
+Natural de São Paulo, graduado em Pedagogia e cursando Análise e desenvolvimento de Sistemas. Atualmente atuo como desenvolvedor júnior voltado ao front end, nas seguintes tecnologias: `HTML`, `CSS`, `TypeScript`, `JavaScript`, `Bootstrap`, `Devexpress`, `Angular` e `Git`.
+
+Recentemente concluí o bootcamp da Generation Brasil em Desenvolvimento web, Full Stack Java júnior e o curso de Programador Web pela ETEC-SP. 
+Sou uma pessoa ávida por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
 <br>
 
  </p>
