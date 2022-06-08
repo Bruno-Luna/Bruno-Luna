@@ -1,8 +1,7 @@
 ## Olá! 
 #### Bem-vindo(a) ao meu repositório.
 
- <img src= "https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador"> 
-<p align="left">
+ <img src= "https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif"  width="50%" align="right" alt="Computador"> 
  
  <details> 
    <summary> <b>Sobre mim:</b> </summary><br>
@@ -29,5 +28,4 @@ Sou uma pessoa ávida por novos conhecimentos e aprendizagem. Sou fascinado pela
   <a href="https://www.linkedin.com/in/lunabr/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/bruno-luna-11590720a/"/>
  </a>
-</p>
 
