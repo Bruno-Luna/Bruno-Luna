@@ -1,13 +1,12 @@
 ## Olá! 
 #### Bem-vindo(a) ao meu repositório.
 
- <img src= "https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif"  width="50%" align="right" alt="Computador"> 
+ <img src= "https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif"  width="40%" align="right" alt="Computador"> 
  
  <details> 
    <summary> <b>Sobre mim:</b> </summary><br>
-<span> Natural de São Paulo, graduado em Pedagogia e cursando Análise e desenvolvimento de Sistemas. Atualmente atuo como desenvolvedor júnior voltado ao front end.<br>
-Recentemente concluí o bootcamp da Generation Brasil em Desenvolvimento web, Full Stack Java júnior e o curso de Programador Web pela ETEC-SP. 
-Sou uma pessoa ávida por novos conhecimentos e aprendizagem. Sou fascinado pela área do desenvolvimento web em suas melhores tecnologias e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
+<span> Natural de São Paulo, graduado em Pedagogia e cursando Análise e desenvolvimento de Sistemas. Atualmente atuo como desenvolvedor júnior<br>
+Sou uma pessoa ávida por novos conhecimentos, aprendizagem e o que me motiva diariamente é a imensidão de desafios e soluções que encontro na área.
   </span> 
   </details> 
 
