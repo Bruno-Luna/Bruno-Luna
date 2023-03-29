@@ -1,5 +1,5 @@
 
-## Seja bem-vindo(a) ao meu repositório!
+## Seja bem-vindo!
 
  <img src= "https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif"  width="40%" align="right" alt="Computador"> 
  
