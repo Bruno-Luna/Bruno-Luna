@@ -1,7 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=100&color=791979&center=false&width=435&lines=Bem-vindo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&pause=1000&color=008FF7&width=435&lines=Bem+vindo!" alt="Typing SVG" /></a>
 
  <img src= "https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif"  width="40%" align="right" alt="Computador"> 
- 
  <details> 
    <summary> <b>Sobre mim</b> </summary><br>
 <span> Natural de São Paulo, graduado em Pedagogia e cursando Análise e desenvolvimento de Sistemas. Atualmente atuo como desenvolvedor júnior<br>
@@ -23,4 +22,4 @@ Sou uma pessoa ávida por novos conhecimentos, aprendizagem e o que me motiva di
  <a href="https://www.linkedin.com/in/lunabr/" target="_blank"><img alt="Bruno-Luna-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a>     
 </div>
  <br>
- <img src="https://komarev.com/ghpvc/?username=Bruno-Luna&color=331932" alt="Visualizações: Pefil Bruno-Luna" /> 
+ <img src="https://komarev.com/ghpvc/?username=Bruno-Luna&color=000000" alt="Visualizações: Pefil Bruno-Luna" /> 
