@@ -22,4 +22,4 @@ Sou uma pessoa ávida por novos conhecimentos, aprendizagem e o que me motiva di
  <a href="https://www.linkedin.com/in/lunabr/" target="_blank"><img alt="Bruno-Luna-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a>     
 </div>
  <br>
- <img src="https://komarev.com/ghpvc/?username=Bruno-Luna&color=000000" alt="Visualizações: Pefil Bruno-Luna" /> 
+ <img src="https://komarev.com/ghpvc/?username=Bruno-Luna&color=ff0000 " alt="Visualizações: Pefil Bruno-Luna" /> 
