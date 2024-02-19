@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&pause=1000&color=008FF7&width=435&lines=Bem+-+vindo!" alt="Typing SVG" /></a>
 
-<img src="https://github.com/Bruno-Luna/Bruno-Luna/blob/main/bio.png" width="80%" alt="Sobre mim">
+ ![code](https://github.com/Bruno-Luna/Bruno-Luna/assets/80595156/23b5a856-4090-4e5f-b617-3f94b2ee21fa)
 
  <details> 
   <summary> <b>Tecnologias que estudo/trabalho</b> </summary><br>
