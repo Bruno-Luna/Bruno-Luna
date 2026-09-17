@@ -2,7 +2,6 @@
 
 ![image](https://github.com/Bruno-Luna/Bruno-Luna/assets/80595156/365b7e6b-c7d5-4873-8023-106f8a13d6de)
 
- <details> 
   <summary> <b>Tecnologias que estudo/trabalho</b> </summary><br>
   <p>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
@@ -36,7 +35,6 @@
    <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> 
    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">                            
   </p>
- </details> 
 
 <br>
 <div align="left">  
