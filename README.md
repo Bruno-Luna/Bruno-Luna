@@ -1,6 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&pause=1000&color=008FF7&width=435&lines=Bem+-+vindo!" alt="Typing SVG" /></a>
 
-![image](https://github.com/Bruno-Luna/Bruno-Luna/assets/80595156/365b7e6b-c7d5-4873-8023-106f8a13d6de)
+`const desenvolvedor = {
+  nome: 'Bruno Luna',
+  graduacao: 'Análise e Desenvolvimento de Sistemas',
+  sobre: 'Desenvolvedor Back End Java com sólida experiência em criação e manutenção de APIs, integração de sistemas e boas práticas de arquitetura. Apaixonado por desafios técnicos e evolução constante na área de desenvolvimento.',
+  experiencia: '3 anos +'
+}`
 
   <summary> <b>Tecnologias que estudo/trabalho</b> </summary><br>
   <p>
